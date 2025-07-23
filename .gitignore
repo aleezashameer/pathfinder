@@ -1,0 +1,12 @@
+# Node
+node_modules/
+.env
+.DS_Store
+*.log
+# Build
+frontend/build/
+frontend/dist/
+# VSCode
+.vscode/
+# OS
+Thumbs.db 
